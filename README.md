@@ -1,2 +1,2 @@
-# cobblesteve01.github.io
-Personal Website
+## It's just my personal website
+Simple development
