@@ -89,7 +89,7 @@ section {
 }
 
 .card:hover {
-    transform: translate(0, -10px);
+    transform: translate(0, -40px);
     color: rgb(0, 110, 219);
 }
 
