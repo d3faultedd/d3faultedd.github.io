@@ -89,7 +89,7 @@ section {
 }
 
 .card:hover {
-    transform: translate(0, -1000px);
+    transform: translate(0, -10px);
     color: rgb(0, 110, 219);
 }
 
@@ -133,8 +133,4 @@ section {
 
 .grid {
     display: flex;
-}
-
-.row2 {
-    border
 }
